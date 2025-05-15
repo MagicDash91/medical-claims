@@ -16,7 +16,6 @@ google-generativeai
 python-dotenv
 
 # File handling and document processing
-pypdf
 python-magic
 
 # Optional PDF/DOCX parsing support via unstructured
