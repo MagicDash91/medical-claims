@@ -1,0 +1,49 @@
+langchain
+langchain-core
+langchain-google-genai
+python-dotenv
+google-generativeai
+langgraph
+
+ipython
+pydantic
+urllib3
+rich
+python-magic-bin
+unstructured[pdf]
+unstructured[docx]
+
+# Data science and machine learning
+networkx
+pandas
+numpy
+seaborn
+matplotlib
+Sastrawi
+scikit-learn
+scipy
+
+# Core FastAPI and ASGI server
+fastapi
+uvicorn
+starlette
+
+# LangChain, Google Generative AI, and related libraries
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+# File handling and document processing
+pypdf
+unstructured
+openpyxl
+docx2txt
+python-magic
+python-pptx
+python-dotenv
+# Async support
+nest-asyncio
+
+# FAISS and tokenization
+faiss-cpu
+tiktoken
