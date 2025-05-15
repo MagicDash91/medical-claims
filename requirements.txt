@@ -17,9 +17,6 @@ python-dotenv
 
 # File handling and document processing
 pypdf
-openpyxl
-docx2txt
-python-pptx
 python-magic
 
 # Optional PDF/DOCX parsing support via unstructured
