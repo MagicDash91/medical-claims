@@ -9,7 +9,6 @@ ipython
 pydantic
 urllib3
 rich
-python-magic-bin
 unstructured[pdf]
 unstructured[docx]
 
